@@ -1,12 +1,18 @@
-.App {
-  width: 100vw;
-  height: auto;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+.ecran {
+  width: 750px;
+  height: 1010px;
+  background-color: blue;
+  /* border-style: solid; */
+  margin: auto;
 }
 
-img {
-  width: 300px;
-  margin: 10px;
+.prompteur {
+  width: 600px;
+  border-style: solid;
+  margin: auto;
+}
+
+.vignette {
+  width: 100px;
+  border-style: solid;
 }

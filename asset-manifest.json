@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/turning-pages/static/css/main.228b668b.css",
+    "main.js": "/turning-pages/static/js/main.54c6dd00.js",
+    "static/js/453.0a42b949.chunk.js": "/turning-pages/static/js/453.0a42b949.chunk.js",
+    "index.html": "/turning-pages/index.html",
+    "main.228b668b.css.map": "/turning-pages/static/css/main.228b668b.css.map",
+    "main.54c6dd00.js.map": "/turning-pages/static/js/main.54c6dd00.js.map",
+    "453.0a42b949.chunk.js.map": "/turning-pages/static/js/453.0a42b949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.228b668b.css",
+    "static/js/main.54c6dd00.js"
+  ]
+}
